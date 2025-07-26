@@ -1,0 +1,72 @@
+2025-07-16 20:56:18,179 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:18,230 - Blocked IP: 1.1.1.1
+2025-07-16 20:56:19,205 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:19,237 - Blocked IP: 1.1.1.1
+2025-07-16 20:56:20,229 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:20,258 - Blocked IP: 1.1.1.1
+2025-07-16 20:56:28,282 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:28,355 - Blocked ICMP packet from: 8.8.8.8
+2025-07-16 20:56:29,285 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:29,363 - Blocked ICMP packet from: 8.8.8.8
+2025-07-16 20:56:30,309 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:30,361 - Blocked ICMP packet from: 8.8.8.8
+2025-07-16 20:56:31,334 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:31,384 - Blocked ICMP packet from: 8.8.8.8
+2025-07-16 20:56:32,358 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:32,407 - Blocked ICMP packet from: 8.8.8.8
+2025-07-16 20:56:33,385 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:33,536 - Blocked ICMP packet from: 8.8.8.8
+2025-07-16 20:56:34,405 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:34,449 - Blocked ICMP packet from: 8.8.8.8
+2025-07-16 20:56:35,428 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:35,482 - Blocked ICMP packet from: 8.8.8.8
+2025-07-16 20:56:36,420 - Allowed Packet: 192.168.154.128
+2025-07-16 20:56:36,421 - Allowed Packet: 192.168.154.254
+2025-07-16 20:56:36,452 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:36,500 - Blocked ICMP packet from: 8.8.8.8
+2025-07-16 20:56:37,477 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:56:37,526 - Blocked ICMP packet from: 8.8.8.8
+2025-07-16 20:58:35,966 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:36,023 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:36,996 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:37,029 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:37,537 - Allowed Packet: 192.168.154.128
+2025-07-16 20:58:37,538 - Allowed Packet: 192.168.154.254
+2025-07-16 20:58:38,023 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:38,050 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:39,046 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:39,078 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:40,072 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:40,101 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:41,093 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:41,125 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:42,117 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:42,146 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:43,142 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:43,264 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:44,165 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:44,193 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:45,189 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:45,232 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:46,212 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:46,244 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:47,237 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:47,268 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:48,261 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:48,293 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:49,285 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:49,315 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:50,310 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:50,342 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:51,333 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:51,363 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:52,358 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:52,390 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:53,382 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:53,412 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:54,406 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:54,436 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:55,430 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:55,459 - Blocked IP: 1.1.1.1
+2025-07-16 20:58:56,452 - Blocked ICMP packet from: 192.168.154.128
+2025-07-16 20:58:56,483 - Blocked IP: 1.1.1.1

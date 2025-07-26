@@ -1,0 +1,5 @@
+{
+  "blocked_ips": ["1.1.1.1"],
+  "blocked_ports": [22, 80, 445],
+  "blocked_protocols": ["ICMP"]
+}
